@@ -10,7 +10,7 @@ products:
 - azure-app-service
 ---
 
-# ASP.NET Core API sample for Azure App Service - Deploying using GH Actions
+# ASP.NET Core API sample for Azure App Service - Deploying using GH Actions for Azure
 
 This is a sample application that you can use to follow along with the tutorial at 
 [Run a RESTful API with CORS in Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-tutorial-rest-api). 
